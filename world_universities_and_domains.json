@@ -20701,6 +20701,7 @@
     "alpha_two_code": "BE",
     "state-province": null,
     "domains": [
+      "kuleuven.be",
       "kuleuven.ac.be"
     ],
     "country": "Belgium"
@@ -39278,6 +39279,7 @@
     "alpha_two_code": "FR",
     "state-province": null,
     "domains": [
+      "hec.edu",
       "hec.fr"
     ],
     "country": "France"
@@ -42303,6 +42305,7 @@
     "alpha_two_code": "DE",
     "state-province": null,
     "domains": [
+      "hs-offenburg.de",
       "fh-offenburg.de"
     ],
     "country": "Germany"
@@ -75922,6 +75925,7 @@
     "alpha_two_code": "NL",
     "state-province": null,
     "domains": [
+      "wur.nl",
       "wageningenuniversity.nl"
     ],
     "country": "Netherlands"
@@ -92259,6 +92263,7 @@
     "alpha_two_code": "ES",
     "state-province": null,
     "domains": [
+      "ub.edu",
       "ub.es"
     ],
     "country": "Spain"
@@ -116520,6 +116525,30 @@
     "name": "California College of the Arts",
     "domains": [
       "cca.edu"
+    ]
+  },
+  {
+    "name": "MGH Institute of Health Professions",
+    "domains": [
+      "mghihp.edu"
+    ]
+  },
+  {
+    "name": "Université Cheikh Anta Diop de Dakar",
+    "domains": [
+      "ucad.edu.sn"
+    ]
+  },
+  {
+    "name": "Machakos University",
+    "domains": [
+      "mksu.ac.ke"
+    ]
+  },
+  {
+    "name": "Universidad EARTH",
+    "domains": [
+      "earth.ac.ur"
     ]
   }
 ]
